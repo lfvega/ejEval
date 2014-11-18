@@ -1,1 +1,1 @@
-.
+mi fichero java.
